@@ -25,7 +25,7 @@ def generate_cam(learn, path, cl):
     plt.figure
     plt.tight_layout()
     ax1 = fig.add_subplot(1, 2, 2)
-    ax1.set_title('Plate '+str(cl)+' GradCam explanation')
+    ax1.set_title('Plate '+str(cl)+' Grad-CAM explanation')
     im.show(ax1)
     ax1.imshow(mult, alpha=0.7, extent=(0,*sz[::-1],0), interpolation='bicubic', cmap='magma')
     ax1.set_axis_off()
