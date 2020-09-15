@@ -9,7 +9,10 @@ For machine learning part of the work we used the framework by [Fast.ai](fast.ai
 ###For double blind review
 In order to anonymise the site it is moved to a anonymous repository This. This server cannot render Jupyter Notebook so the central part of the file code.ipynb is replaced by four images.
 
-![Codepart1]{code1.png}
-[Codepart2]{code2.png}
-[Codepart3]{code2.png}
-[Codepart4]{code2.png}
+![Codepart1](code1.png)
+
+[Codepart2](code2.png)
+
+[Codepart3](code2.png)
+
+[Codepart4](code2.png)
